@@ -1,6 +1,6 @@
 {
   "name": "winston-insights",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A WinstonJS logging transport for New Relic Insights",
   "main": "index.js",
   "dependencies": {

@@ -87,3 +87,5 @@ Insights.prototype.log = function (level, msg, meta, callback) {
   this.insights.add(data, this.eventType);
   
 };
+
+module.exports = Insights;
